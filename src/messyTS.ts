@@ -7,6 +7,10 @@ const y = {
 
 console.log("z", x, y);
 
+
+
+
+
 type Hello = {
   name: string;
   age: number;
